@@ -1,3 +1,10 @@
+Favorite foods 
 1. Borsh 
 2. Sandal
 3. Kabab
+
+Favorite movies
+1. Interstellar 
+2. Django 
+3. Shutter Island 
+
